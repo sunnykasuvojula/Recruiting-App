@@ -1,3 +1,8 @@
+/*
+Reference : Lab-2
+* Reference for Glide :https://chat.openai.com/c/24597f04-3946-4858-ac85-8b0663f3bdff
+* Reference for user Connections : https://chat.openai.com/c/06bbc086-b07d-4306-ba0f-7ca66a9522b5
+* https://stackoverflow.com/questions/2091465/how-do-i-pass-data-between-activities-in-android-application*/
 package com.example.recruitingapp
 
 import android.content.ContentValues

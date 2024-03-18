@@ -1,3 +1,5 @@
+/*
+* https://chat.openai.com/c/00d0d13a-f509-4370-a9da-1502ec0296a4*/
 package com.example.recruitingapp
 
 import android.content.ContentValues
