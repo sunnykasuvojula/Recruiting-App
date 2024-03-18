@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14519922745",
+    "project_id": "recruiting-app-d6d44",
+    "storage_bucket": "recruiting-app-d6d44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14519922745:android:3845d419033791c19c5de8",
+        "android_client_info": {
+          "package_name": "com.example.recruitingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo502dCHYxcg81kbYV0mruetJeEnN0ryo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
